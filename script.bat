@@ -3,4 +3,4 @@
 echo "test"
 echo "test2"
 echo "modification"
-exho "test4"
+echo "test4"
